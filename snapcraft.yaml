@@ -1,4 +1,4 @@
-name: cassandra
+name: cassandraandcarla
 version: 3.7
 summary: Cassandra distributed database
 description: The Apache Cassandra database
